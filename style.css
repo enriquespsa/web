@@ -1,4 +1,11 @@
-* {
-  font-family: center;
-  color: darkgray;
+h1 {
+  font-family: arial;
+  color: blueviolet;
+  text-align: center;
+}
+
+p {
+  font-family: arial;
+  color: darkslategray;
+  text-align: center;
 }
